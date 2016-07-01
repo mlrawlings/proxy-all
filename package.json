@@ -1,0 +1,20 @@
+{
+  "name": "proxy-all",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mlrawlings",
+  "license": "MIT",
+  "devDependencies": {
+    "colors": "^1.1.2"
+  },
+  "dependencies": {
+    "agent-base": "^2.0.1",
+    "colors": "^1.1.2",
+    "debug": "^2.2.0",
+    "extend": "^3.0.0"
+  }
+}
