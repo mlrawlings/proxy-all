@@ -13,7 +13,7 @@ npm install --save proxy-all
 ### require the module
 ```js
 require('proxy-all');
-// ... more code ...
+// ... your code ...
 ```
 
 ### run your code with NODE_PROXY set
